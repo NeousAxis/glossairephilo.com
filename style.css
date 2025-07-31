@@ -1,0 +1,40 @@
+
+body {
+    font-family: 'Source Serif 4', serif;
+    max-width: 800px;
+    margin: auto;
+    padding: 2rem;
+    background-color: #fdfdfd;
+    color: #222;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 1rem;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 1em;
+}
+
+h2 {
+    margin-top: 2em;
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
